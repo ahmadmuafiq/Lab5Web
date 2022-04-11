@@ -25,6 +25,12 @@
 
 1. Pengenalan Javascript.
 
-<i> Gambar di bawah merupakan langkah awal pengenalan Javascript.
+<i> Gambar di bawah ini merupakan tampilan awal pengenalan Javascript.
 
 ![gambar](pictures/1.png)
+
+2. Javascript Dasar.
+
+<i> Pemakaian alert sebagai properti window. Berikut tampilanya.
+
+![gambar](pictures/2.png)
