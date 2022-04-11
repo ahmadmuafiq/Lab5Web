@@ -22,3 +22,9 @@
             </table>
 
 <hr>
+
+1. Pengenalan Javascript.
+
+<i> Gambar di bawah merupakan langkah awal pengenalan Javascript.
+
+![gambar](pictures/1.jpg)
