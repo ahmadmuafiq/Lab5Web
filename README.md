@@ -45,4 +45,10 @@
 
 <i> Pemakaian prompt untuk menampilkan pop up dan memasukan data. Berikut untuk tampilannya.
 
-![gambar](pictures/4.png)
+![gambar](pictures/4.png) ![gambar](pictures/5.png)
+
+5. Javascript Dasar.
+
+<i> Pembuatan fungsi dan cara pemanggilannya. Berikut tampilanya.
+
+![gambar](pictures/6.png)
